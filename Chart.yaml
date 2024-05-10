@@ -1,0 +1,11 @@
+apiVersion: v2
+name: elk-win
+description: A Helm chart for ELK windows-exporter
+keywords:
+  - windows-exporter
+  - windows
+  - prometheus
+  - exporter
+type: application
+version: 0.3.1
+appVersion: 0.25.1
