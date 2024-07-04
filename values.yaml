@@ -4,7 +4,7 @@
 #
 image:
   registry: ghcr.io
-  repository: vignesan/elk-win-exporter:2.0
+  repository: vignesan/elk-win-exporter:latest
   # Overrides the image tag whose default is {{ printf "v%s" .Chart.AppVersion }}
   tag: ""
   pullPolicy: IfNotPresent
